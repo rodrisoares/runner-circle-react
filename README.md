@@ -7,7 +7,7 @@
 
 **Runner Circle** é uma rede social de treinos de corrida e caminhada desenvolvida com React. Os usuários publicam seus treinos — com tempo, distância, calorias, batimentos, ritmo e elevação — e acompanham um feed compartilhado, filtrável por categoria e por busca.
 
-O projeto conta com um design moderno e responsivo, gráficos de evolução no perfil e metas de distância com prazo. O backend é um **mock GraphQL** servido por [`json-graphql-server`](https://github.com/marmelab/json-graphql-server), o que permite rodar toda a aplicação localmente, sem depender de serviços externos.
+O projeto conta com um design moderno e responsivo, gráficos de evolução no perfil e metas de distância com prazo. 
 
 ---
 
@@ -48,7 +48,7 @@ O **Runner Circle** oferece uma experiência completa para quem quer registrar e
 - **[Vite](https://vitejs.dev/)**: Ferramenta de build e desenvolvimento rápido.
 - **[React Router DOM](https://reactrouter.com/en/main)**: Para gerenciamento de rotas na aplicação.
 - **[Apollo Client](https://www.apollographql.com/docs/react/)**: Cliente GraphQL com cache normalizado.
-- **[GraphQL](https://graphql.org/)** + **[json-graphql-server](https://github.com/marmelab/json-graphql-server)**: Backend mock a partir de um seed.
+- **[GraphQL](https://graphql.org/)** + **[json-graphql-server](https://github.com/marmelab/json-graphql-server)**: Backend mock que gera a API GraphQL a partir de um seed local.
 - **[MUI](https://mui.com/)** + **[MUI X Charts](https://mui.com/x/react-charts/)**: Componentes e gráficos.
 - **[Tailwind CSS](https://tailwindcss.com/)**: Estilização utilitária.
 
