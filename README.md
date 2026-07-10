@@ -67,7 +67,7 @@ Siga os passos abaixo para rodar o projeto em seu ambiente de desenvolvimento.
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/rodrisoares/react-runner-circle.git
+   git clone https://github.com/rodrisoares/runner-circle-react.git
    ```
 
 2. **Acesse o diretório do projeto:**
